@@ -3,6 +3,7 @@ import {Link, ColumnLayout, Container, Header} from "@awsui/components-react/"
 import aptivLogo from '../../aptivLogo.png';
 
 export default function Home() {
+
     return (
         <div>
             <ColumnLayout columns={3}>
